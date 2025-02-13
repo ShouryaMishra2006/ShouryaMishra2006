@@ -1,6 +1,11 @@
 ## Hi there 👋 
 I am Shourya Mishra. I am currently pursuing Bachelor of Technology in Computer Science and Engineering from MNNIT Allahabad.
+
+
 ![My Stats](https://github-readme-stats.vercel.app/api?username=ShouryaMishra2006&show_icons=true&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaMishra2006&layout=compact&theme=radical)
 
 <!--
 **ShouryaMishra2006/ShouryaMishra2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
