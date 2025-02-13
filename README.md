@@ -10,6 +10,9 @@ I am Shourya Mishra. I am currently pursuing Bachelor of Technology in Computer 
 
 ![Holopin Badges](https://holopin.me/ShouryaMishra2006)
 
+
+[![Holopin Badges](https://holopin.me/ShouryaMishra2006)](https://holopin.io/@ShouryaMishra2006)
+
 <!--
 **ShouryaMishra2006/ShouryaMishra2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
