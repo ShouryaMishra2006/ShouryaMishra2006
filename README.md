@@ -7,6 +7,9 @@ I am Shourya Mishra. I am currently pursuing Bachelor of Technology in Computer 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaMishra2006&layout=compact&theme=radical)
 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShouryaMishra2006&theme=radical)
+
 <!--
 **ShouryaMishra2006/ShouryaMishra2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
