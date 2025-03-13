@@ -2,7 +2,6 @@
 I am currently pursuing Bachelor of Technology in Computer Science and Engineering from MNNIT Allahabad.
 I love building efficient, scalable, and user-friendly applications while constantly exploring new technologies. I believe that success is an advanced form of passion, so I approach every project with enthusiasm and dedication.
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShouryaMishra2006&title=Profile%20Views)
 ![Profile Views](https://komarev.com/ghpvc/?username=ShouryaMishra2006&color=blue)
 
 
