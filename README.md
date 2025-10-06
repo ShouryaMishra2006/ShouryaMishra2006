@@ -20,10 +20,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaMishra2006&layout=compact&theme=radical)
 
-<!-- Optional: Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShouryaMishra2006&theme=radical)
-
----
 
 ### 🏆 Holopin Badges
 [![Holopin Badges](https://holopin.me/ShouryaMishra2006)](https://holopin.io/@ShouryaMishra2006)
