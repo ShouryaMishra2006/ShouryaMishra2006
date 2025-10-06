@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 GitHub Stats (2025 Edition)
+### 📊 GitHub Stats 
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=ShouryaMishra2006&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
@@ -27,13 +27,6 @@
 
 ### 🏆 Holopin Badges
 [![Holopin Badges](https://holopin.me/ShouryaMishra2006)](https://holopin.io/@ShouryaMishra2006)
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya-mishra2006/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ShouryaMishra2006)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](#)
 
 ---
 
